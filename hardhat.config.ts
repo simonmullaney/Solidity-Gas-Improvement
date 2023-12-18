@@ -7,7 +7,6 @@ const config: HardhatUserConfig = {
   gasReporter: {
     enabled:true,
     currency: 'USD',
-
   },
 };
 
